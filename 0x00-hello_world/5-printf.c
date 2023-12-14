@@ -2,8 +2,8 @@
 
 /**
 * main - prints out a string via printf
-* description - program that prints out a string and is followed by a new line
-* return - 0 when no errors
+* Description - program that prints out a string and is followed by a new line
+* Return - 0 when no errors
 */
 
 int main(void)
